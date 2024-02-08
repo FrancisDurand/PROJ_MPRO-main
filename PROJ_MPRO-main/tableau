@@ -1,0 +1,38 @@
+\begin{center}
+\renewcommand{\arraystretch}{1.4} 
+ \begin{tabular}{lcrrrrrrrr}
+	\hline
+ & & \multicolumn{2}{c}{\textbf{branch\_and\_cut}} & \multicolumn{2}{c}{\textbf{dualisation}} & \multicolumn{2}{c}{\textbf{heuristique}} & \multicolumn{2}{c}{\textbf{plans\_coupants}}\\
+\textbf{Instance} & \textbf{PR} & \textbf{Temps (s)} & \textbf{Gap}  & \textbf{Temps (s)} & \textbf{Gap}  & \textbf{Temps (s)} & \textbf{Gap}  & \textbf{Temps (s)} & \textbf{Gap} \\\hline
+
+20\_USA-road-d.BAY.gr & ?
+ & 3.81 & 
+$\times$
+ & 0.08 & 
+$\times$
+ & 0.0 & 
+$\times$
+ & 7.5 & 
+\\
+20\_USA-road-d.COL.gr & ?
+ & 0.45 & 
+$\times$
+ & 0.03 & 
+$\times$
+ & 0.0 & 
+$\times$
+ & 5.81 & 
+\\
+20\_USA-road-d.NY.gr & ?
+ & 0.49 & 
+$\times$
+ & 0.03 & 
+$\times$
+ & 0.0 & 
+$\times$
+ & 6.26 & 
+\\
+\hline\end{tabular}
+\end{center}
+
+
